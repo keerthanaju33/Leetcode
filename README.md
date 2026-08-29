@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/keerthanaju33/Leetcode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/keerthanaju33/Leetcode/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/keerthanaju33/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
