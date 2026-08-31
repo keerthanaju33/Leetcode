@@ -13,9 +13,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/keerthanaju33/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/keerthanaju33/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/keerthanaju33/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1480-running-sum-of-1d-array](https://github.com/keerthanaju33/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/keerthanaju33/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/keerthanaju33/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/keerthanaju33/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/keerthanaju33/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
